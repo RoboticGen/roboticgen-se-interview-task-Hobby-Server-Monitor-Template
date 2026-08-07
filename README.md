@@ -279,8 +279,8 @@ Where the spec is silent, **make a reasonable decision and document it in the re
 
 | Type | Date |
 | --- | --- |
-| Soft Deadline | 2026-08-06 |
-| Hard Deadline | 2026-08-11 |
+| Soft Deadline | 2026-08-13 |
+| Hard Deadline | 2026-08-15 |
 
 The soft deadline is the target. Submitting between the two costs nothing on its own, but time management is visible to reviewers. Nothing is accepted after the hard deadline.
 
